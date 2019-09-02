@@ -118,8 +118,8 @@
           "architecture": "samd",
           "version": "1.0.0",
           "category": "AuthGate",
-          "url": "https://adafruit.github.io/arduino-board-index/boards/adafruit-samd-1.5.3.tar.bz2",
-          "archiveFileName": "adafruit-samd-1.5.3.tar.bz2",
+          "url": "https://authgate.github.io/authgate-SAMDX1board-index/boards/authgate-SAMDX1-1.0.0.tar.bz2",
+          "archiveFileName": "authgate-SAMDX1-1.0.0.tar.bz2",
           "checksum": "SHA-256:9ad23cae349347759e36a38a4abdc47f74546569887b51776eef783ceca65be1",
           "size": "18077859",
           "help": {
