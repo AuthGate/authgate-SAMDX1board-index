@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "websiteURL": "https://adafruit.com",
+      "websiteURL": "https://authgate.com",
       "tools": [
         {
           "systems": [
@@ -106,24 +106,24 @@
           "version": "1.0.0"
         }
       ],
-      "name": "adafruit",
-      "email": "info@adafruit.com",
+      "name": "AuthGate",
+      "email": "info@authgate.com",
       "help": {
-        "online": "https://forums.adafruit.com"
+        "online": "https://authgate.com"
       },
-      "maintainer": "Adafruit",
+      "maintainer": "AuthGate",
       "platforms": [
         {
-          "name": "Adafruit SAMD Boards",
+          "name": "AuthGate SAMDX1",
           "architecture": "samd",
-          "version": "1.5.3",
-          "category": "Adafruit",
+          "version": "1.0.0",
+          "category": "AuthGate",
           "url": "https://adafruit.github.io/arduino-board-index/boards/adafruit-samd-1.5.3.tar.bz2",
           "archiveFileName": "adafruit-samd-1.5.3.tar.bz2",
           "checksum": "SHA-256:9ad23cae349347759e36a38a4abdc47f74546569887b51776eef783ceca65be1",
           "size": "18077859",
           "help": {
-            "online": "https://forums.adafruit.com"
+            "online": "https://authgate.com"
           },
           "boards": [
             {
