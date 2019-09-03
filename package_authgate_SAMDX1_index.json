@@ -127,10 +127,10 @@
           },
           "boards": [
             {
-              "name": "Adafruit ItsyBitsy M0"
+              "name": "Template M0"
             },
             {
-              "name": "Adafruit ItsyBitsy M4"
+              "name": "Template M4"
             }
           ],
           "toolsDependencies": [
