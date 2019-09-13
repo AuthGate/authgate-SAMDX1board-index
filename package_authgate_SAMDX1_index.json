@@ -120,8 +120,8 @@
           "category": "AuthGate",
           "url": "https://authgate.github.io/authgate-SAMDX1board-index/boards/authgate-SAMDX1-1.0.0.tar.bz2",
           "archiveFileName": "authgate-SAMDX1-1.0.0.tar.bz2",
-          "checksum": "SHA-256:9ad23cae349347759e36a38a4abdc47f74546569887b51776eef783ceca65be1",
-          "size": "18077859",
+          "checksum": "SHA-256:50b7fe3c2406c85532bfa46448a78cf25bef17cb5a651f94e7bca1f5bffe4e60",
+          "size": "930487",
           "help": {
             "online": "https://authgate.com"
           },
