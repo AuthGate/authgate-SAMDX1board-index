@@ -128,9 +128,6 @@
           "boards": [
             {
               "name": "Template M0"
-            },
-            {
-              "name": "Template M4"
             }
           ],
           "toolsDependencies": [
