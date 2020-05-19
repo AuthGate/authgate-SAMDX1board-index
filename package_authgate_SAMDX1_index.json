@@ -271,6 +271,65 @@
               "version": "1.2.0"
             }
           ]
+        },
+        {
+          "name": "AuthGate SAMDX1",
+          "architecture": "samd",
+          "version": "1.2.1",
+          "category": "AuthGate",
+          "url": "https://authgate.github.io/authgate-SAMDX1board-index/boards/authgate-SAMDX1-1.2.1.tar.bz2",
+          "archiveFileName": "authgate-SAMDX1-1.2.1.tar.bz2",
+          "checksum": "SHA-256:754c31c652db863551592e58d64dbe38de3c1cfceb228058bfacc33cc7848c47",
+          "size": "936252",
+          "help": {
+            "online": "https://authgate.com"
+          },
+          "boards": [
+            {
+              "name": "Template M0"
+            },
+            {
+              "name": "VendPAD"
+            },
+            {
+              "name": "ActiGate"
+            },
+            {
+              "name": "ItsyBitsyM0"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "4.8.3-2014q1"
+            },
+            {
+              "packager": "arduino",
+              "name": "bossac",
+              "version": "1.7.0"
+            },
+            {
+              "packager": "arduino",
+              "name": "bossac",
+              "version": "1.8.0-48-gb176eee"
+            },
+            {
+              "packager": "arduino",
+              "name": "openocd",
+              "version": "0.9.0-arduino"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS",
+              "version": "4.5.0"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS-Atmel",
+              "version": "1.2.0"
+            }
+          ]
         }
       ]
     }
