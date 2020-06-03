@@ -590,6 +590,73 @@
               "version": "1.2.1"
             }
           ]
+        },
+        {
+          "name": "AuthGate SAMDX1",
+          "architecture": "samd",
+          "version": "1.3.3",
+          "category": "AuthGate",
+          "url": "https://authgate.github.io/authgate-SAMDX1board-index/boards/authgate_SAMDX1_Arduino-V1.3.3.tar.bz2",
+          "archiveFileName": "authgate_SAMDX1_Arduino-V1.3.3.tar.bz2",
+          "checksum": "SHA-256:9c6b13ff031adf29d2ee84d58e2a1ea56ede096c5779c8e35dcd863102ab2cd5",
+          "size": "1034522",
+          "help": {
+            "online": "https://authgate.com"
+          },
+          "boards": [
+            {
+              "name": "TemplateM0"
+            },
+            {
+              "name": "VendPAD"
+            },
+            {
+              "name": "ActiGate"
+            },
+            {
+              "name": "ItsyBitsyM0"
+            },
+            {
+              "name": "SparkfunDev"
+            }
+          ],
+          "toolsDependencies": [
+            {
+              "packager": "arduino",
+              "name": "arm-none-eabi-gcc",
+              "version": "7-2017q4"
+            },
+            {
+              "packager": "arduino",
+              "name": "bossac",
+              "version": "1.7.0-arduino3"
+            },
+            {
+              "packager": "arduino",
+              "name": "bossac",
+              "version": "1.8.0-48-gb176eee"
+            },
+            {
+              "packager": "arduino",
+              "name": "openocd",
+              "version": "0.10.0-arduino7"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS",
+              "version": "4.5.0"
+            },
+            {
+              "packager": "arduino",
+              "name": "CMSIS-Atmel",
+              "version": "1.2.0"
+            },
+            {
+              "packager": "arduino",
+              "name": "arduinoOTA",
+              "version": "1.2.1"
+            }
+          ]
         }
       ]
     }
